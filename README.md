@@ -76,7 +76,7 @@ Urutan yang disarankan: US-01, US-02, US-03, US-04, US-05, US-06, lalu fitur bon
 
 ## Tentang aplikasi ini
 
-- **Nama usaha:**
-- **Pembuat:**
+- **Nama usaha:* Toko Dwi*
+- **Pembuat:*Dwi wahyudi*
 - **Link aplikasi:**
 - **Fitur bonus yang dikerjakan:**
