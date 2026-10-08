@@ -47,9 +47,11 @@ Sesuai require
 ## US-05 Ganti password
 
 **Prompt:**
+Baca docs/user-stories.md bagian US-05.
 
+Buat Server Action ganti password di app/admin/actions.js untuk admin yang sedang login, memakai Supabase Auth. Validasi di server: password baru minimal 8 karakter dan harus sama dengan konfirmasi. Tampilkan pesan berhasil atau pesan error yang jelas di halaman. Sambungkan ke form di app/admin/password/page.jsx tanpa mengubah tampilannya. Hapus CatatanBelumAktif dari halaman ini.
 **Hasil:**
-
+Sesuai require
 **Perbaikan:**
 
 ## US-06 Proteksi halaman admin
